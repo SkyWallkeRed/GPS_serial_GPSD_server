@@ -1,0 +1,23 @@
+{
+  "name": "serail_port_reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/parser-readline": "latest",
+    "express": "^4.17.1",
+    "gps": "^0.5.3",
+    "kalman": "0.0.2",
+    "node-gpsd": "^0.3.1",
+    "serialport": "^8.0.7",
+    "sylvester": "0.0.21"
+  },
+  "devDependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
