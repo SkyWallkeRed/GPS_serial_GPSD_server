@@ -1,8 +1,7 @@
 # GPS_serial_GPSD_server
 #
 
-this is a raw working draft of an:
-Arduino serial GPS module => node serial => gps.js(parser) => to GPSD local server that 3ed party softwere can connect to. 
+This is a raw working draft of an: Arduino serial GPS module => node serial => gps.js(parser) => to GPSD local server that 3rd party software can connect to.
 
 (implemented on mac) => PC user need to change some port connection from tty... to COM... (//TODO: config file)
 
