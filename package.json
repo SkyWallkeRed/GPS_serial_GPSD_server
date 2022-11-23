@@ -18,6 +18,6 @@
     "sylvester": "0.0.21"
   },
   "devDependencies": {
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
