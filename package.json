@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@serialport/parser-readline": "latest",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gps": "^0.5.3",
     "kalman": "0.0.2",
     "node-gpsd": "^0.3.1",
